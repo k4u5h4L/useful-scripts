@@ -1,0 +1,4 @@
+cffi==1.15.0
+cryptography==35.0.0
+numpy==1.21.4
+pycparser==2.21
